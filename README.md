@@ -1,4 +1,4 @@
-# [Harshkumar Raval]
+# Harshkumar Raval
 
 ## Cybersecurity Specialist | Software Developer  
 🎓 **Bachlor in Computer Engineering** | 🎓 **Postgraduate in Cybersecurity**
