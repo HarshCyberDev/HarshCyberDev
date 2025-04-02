@@ -1,7 +1,7 @@
 # Harshkumar Raval
 
 ## Cybersecurity Specialist | Software Developer  
-🎓 **Bachlor in Computer Engineering** | 🎓 **Postgraduate in Cybersecurity**
+🎓 **Bachelor of Engineering  in Computer Engineering** | 🎓 **Postgraduate in Cybersecurity**
 
 Welcome to my GitHub portfolio! I am passionate about solving complex problems and enhancing system security. With a strong foundation in **Computer Engineering** and **Cybersecurity**, I specialize in both software development and securing applications and networks. This portfolio highlights my projects, skills, and achievements.
 
