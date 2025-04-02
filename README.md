@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! I am passionate about solving complex problems a
 
 ---
 
-## 📂 Projects
+<!-- ## 📂 Projects
 
 ### 1. [Cybersecurity Vulnerability Scanner](https://github.com/yourusername/project1)
 **Description:**  
@@ -84,7 +84,7 @@ An end-to-end e-commerce platform for users to browse, purchase products, and tr
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Stripe API
 
----
+---  --!>
 
 ## 🎓 Education
 
