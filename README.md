@@ -109,7 +109,7 @@ Check out my [personal blog](https://www.yourwebsite.com) where I write about **
 ## 📫 Contact Me
 
 <!--- 📧 Email: [your.email@example.com](mailto:your.email@example.com) -->
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- 💼 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/harshkumaraval)
 <!--- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
 <!--- 🌐 Website: [www.yourwebsite.com](https://www.yourwebsite.com) -->
 
