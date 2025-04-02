@@ -89,10 +89,10 @@ An end-to-end e-commerce platform for users to browse, purchase products, and tr
 ## 🎓 Education
 
 **Postgraduate in Cybersecurity**  
-University Name | Graduation Year
+Loyalist College of Applied Arts and Technology | 2022-2024
 
 **Bachelor of Computer Engineering**  
-University Name | Graduation Year
+Gujarat Technological University (GTU) | 2016-2020
 
 ---
 
