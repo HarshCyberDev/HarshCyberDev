@@ -91,12 +91,12 @@ University Name | Graduation Year
 
 ---
 
-## 🏅 Certifications
+ <!-- ## 🏅 Certifications
 
 - Certified Ethical Hacker (CEH)
 - CompTIA Security+
 - AWS Certified Security Specialty
-- Cisco Certified Network Associate (CCNA)
+- Cisco Certified Network Associate (CCNA) 
 
 ---
 
@@ -104,14 +104,14 @@ University Name | Graduation Year
 
 Check out my [personal blog](https://www.yourwebsite.com) where I write about **cybersecurity trends**, **secure coding practices**, and **software development**.
 
----
+---  -->
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+<!--- 📧 Email: [your.email@example.com](mailto:your.email@example.com) -->
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 🌐 Website: [www.yourwebsite.com](https://www.yourwebsite.com)
+<!--- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
+<!--- 🌐 Website: [www.yourwebsite.com](https://www.yourwebsite.com) -->
 
 ---
 
@@ -125,11 +125,11 @@ I'm always open to collaborating on **cybersecurity projects**, **software devel
 
 ---
 
-## 📍 Extra Features
+<!-- ## 📍 Extra Features
 
 You can add **badges** to show your skills and achievements, like this:
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-black)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-green)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-green) -->
